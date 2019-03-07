@@ -22,6 +22,8 @@ permalink: community/courses.html
 
 - [Free React Bootcamp](https://tylermcginnis.com/free-react-bootcamp/) - Recordings from three days of a free online React bootcamp.
 
+- [Vskills: React Quiz](https://www.vskills.in/practice/reactjs-practice-questions) - Free practice quiz and mock tests on React.
+
 ## Paid Courses {#paid-courses}
 
 - [Egghead.io](https://egghead.io/browse/frameworks/react) - Short instructional videos on React and many other topics.
@@ -29,6 +31,8 @@ permalink: community/courses.html
 - [Frontend Masters](https://frontendmasters.com/courses/) - Video courses on React and other frontend frameworks.
 
 - [Fullstack React](https://www.fullstackreact.com/) - The up-to-date, in-depth, complete guide to React and friends.
+
+- [Vskills: React Online Certification](https://www.vskills.in/certification/web-development/reactjs-certification) - Assessment and Certification on React.
 
 - [Pure React](https://daveceddia.com/pure-react/) - A step-by-step guide to mastering React.
 
